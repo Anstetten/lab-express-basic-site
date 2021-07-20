@@ -1,0 +1,27 @@
+
+#homeContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    align-content: center;
+}
+
+
+figure{
+    margin: 2%;
+    background-color: chocolate;
+    padding: 2%;
+    border-radius: 3%;
+}
+
+a:nth-child(1){
+    background-color: white;
+    color:black;
+    }
+
+
+
+
+
+
